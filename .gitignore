@@ -25,4 +25,4 @@
 #.ruby-gemset
 Gemfile.lock
 .rvmrc
-/keys/thesaurus.key
+**/*.key
