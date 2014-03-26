@@ -1,6 +1,8 @@
 cbradio
 ===
 
+[![Build Status](https://travis-ci.org/weirdpercent/cbradio.svg?branch=master)](https://travis-ci.org/weirdpercent/cbradio)[![Build Status](https://travis-ci.org/weirdpercent/cbradio.svg?branch=master)](https://travis-ci.org/weirdpercent/cbradio)[![Code Climate](https://codeclimate.com/github/weirdpercent/cbradio.png)](https://codeclimate.com/github/weirdpercent/cbradio)
+
 A Ruby/JSON interface to [CoderBits](http://www.coderbits.com/).
 
 ### Synopsis
