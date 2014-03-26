@@ -81,7 +81,6 @@ pa=[]; percs={}; cbr.pie(topto, sumtopto, pa, percs); tools=percs;
 pa=[]; percs={}; cbr.pie(topi, sumtopi, pa, percs); interests=percs;
 pa=[]; percs={}; cbr.pie(toptr, sumtoptr, pa, percs); traits=percs;
 pa=[]; percs={}; cbr.pie(topa, sumtopa, pa, percs); areas=percs;
-puts "#{sumtops} #{sumtopl} #{sumtope} #{sumtopf} #{sumtopto} #{sumtopi} #{sumtoptr} #{sumtopa}"
 #now for the badges
 badge=mjl['badges']
 x=0

@@ -16,3 +16,9 @@ group :development do
   gem 'rspec'
   gem 'spinach'
 end
+
+platforms :rbx do
+  gem 'racc'
+  gem 'rubysl', '~> 2.0'
+  gem 'psych'
+end
