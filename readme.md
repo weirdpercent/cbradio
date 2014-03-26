@@ -1,7 +1,7 @@
 cbradio
 ===
 
-A Ruby/JSON interface to ![CoderBits](http://www.coderbits.com/).
+A Ruby/JSON interface to [CoderBits](http://www.coderbits.com/).
 
 ### Synopsis
 
