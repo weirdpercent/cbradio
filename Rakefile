@@ -10,7 +10,7 @@ task :clobber do
   puts 'Everything cleaned.'
 end
 
-desc "Run"
+desc 'Run'
 task :run do
   require './lib/cbradio.rb'
 end
